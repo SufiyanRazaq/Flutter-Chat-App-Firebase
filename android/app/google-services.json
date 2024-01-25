@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "433655407130",
+    "firebase_url": "https://fir-84f9b-default-rtdb.firebaseio.com",
+    "project_id": "fir-84f9b",
+    "storage_bucket": "fir-84f9b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433655407130:android:5d7d2241b1264f8f24a7a3",
+        "android_client_info": {
+          "package_name": "com.chat.messenger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC80-TRoDq0hA8ZNXTfwqMCKf76pI1b7ag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433655407130:android:c43defaea5b1908324a7a3",
+        "android_client_info": {
+          "package_name": "com.example.messenger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC80-TRoDq0hA8ZNXTfwqMCKf76pI1b7ag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
